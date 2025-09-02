@@ -5,7 +5,7 @@ An example robot that demonstrates the capabilities of the ROS2 ecosystem.
 1. Open a terminal and navigate to a directory of your choice using `ls` and `cd` commands.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/treedel/stembot.git
+   git clone https://github.com/Nahul-Alaguraj/stembot.git
    cd stembot
    ```
 3. Build the packages using:
